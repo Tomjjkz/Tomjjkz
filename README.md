@@ -6,7 +6,7 @@ herramientas internas para gestionar materiales y pedidos.
 
 ## 🔧 En qué estoy metido
 - Aprendiendo React y Supabase armando un gestor de gastos personales
-- Programación en C (facultad)
+- Cursando el primer año de la carrera.
 - Arrancando mi portfolio en GitHub 🚀
 
 ## 📫 Contacto
