@@ -1,16 +1,13 @@
-## Hi there 👋
+# ¡Hola! Soy Tomás 👋
 
-<!--
-**Tomjjkz/Tomjjkz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de Ingeniería en Sistemas en la UAI (Castelar). Trabajo en 
+administración en una fábrica de aberturas de PVC, donde armo 
+herramientas internas para gestionar materiales y pedidos.
 
-Here are some ideas to get you started:
+## 🔧 En qué estoy metido
+- Aprendiendo React y Supabase armando un gestor de gastos personales
+- Programación en C (facultad)
+- Arrancando mi portfolio en GitHub 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contacto
+- Email: tomasbruno14@hotmail.com
